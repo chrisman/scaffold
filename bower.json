@@ -1,0 +1,31 @@
+{
+  "name": "g18-chrisbrown-project1",
+  "homepage": "https://github.com/chrisman/g18-chrisbrown-project1",
+  "authors": [
+    "Christopher Brown <christopher.p.brown@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "jquery",
+    "bootstrap-sass"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "jquery": "~2.1.4",
+    "font-awesome": "fontawesome#~4.5.0"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.6"
+  }
+}

@@ -1,0 +1,23 @@
+extends ./layouts/layout
+
+block page-title
+  title Wiki Thanks
+  link(rel="icon",
+    href="favicon.ico",
+    type="image/x-icon")
+
+block head
+  include ./includes/header.jade
+
+block content
+  #main.container
+    h1 Wiki Thanks 
+      small 
+        span spread the
+        span.glyphicon.glyphicon-heart(aria-hidden="true")
+        span around
+      
+block scriptblock
+  script(src='js/jquery.min.js')
+  script(src='js/bootstrap.min.js')
+  script(src='js/app.bundle.js')  
