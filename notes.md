@@ -1,6 +1,8 @@
 # Personal project
 
-How's it going.
+
+
+## Roadmap
 
 __MVP__
 
@@ -18,7 +20,13 @@ __Stretch__
 
 ## todo
 
-1. why does?
+1. 'portant
+
+## Challenges
+
+1. oof
+
+2. ouch
 
 ## What I Have Learned
 
@@ -28,7 +36,7 @@ __Stretch__
 
 ## Links
 
-  __for this project itself__
+__for this project itself__
 
 
-  __references and resources__
+__references and resources__
